@@ -1,0 +1,541 @@
+{
+  "main": {
+    "id": "d203e881c7485f70",
+    "type": "split",
+    "children": [
+      {
+        "id": "9def336c7d2bc769",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b650a5ee3ea227e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "テーマ集/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "b494aeb804fe4529",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "テーマ集/09_作業-作業記録-作業TODO/記録ノート/お試し_KANBAN.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "お試し_KANBAN"
+            }
+          },
+          {
+            "id": "49cfd92b16ceb9d5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "テーマ集/Excalidraw/お試し_map_excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "お試し_map_excalidraw"
+            }
+          },
+          {
+            "id": "58f5094266c2780a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "テーマ集/Excalidraw/お試し_map_excalidraw.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "お試し_map_excalidraw"
+            }
+          },
+          {
+            "id": "170bd4a7d6047f07",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "テーマ集/Excalidraw/お試し_map_excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "お試し_map_excalidraw"
+            }
+          },
+          {
+            "id": "3317347c99b40a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "テーマ集/09_作業-作業記録-作業TODO/TODO置き場/0_TODO.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0_TODO"
+            }
+          },
+          {
+            "id": "c8b6c9ae7854d6ac",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "テーマ集/Excalidraw/test.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "test"
+            }
+          },
+          {
+            "id": "0a005582d210b703",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "テーマ集/Excalidraw/お試し_map_excalidraw.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "お試し_map_excalidraw"
+            }
+          },
+          {
+            "id": "df3af8f3dfb8a09d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "テーマ集/09_作業-作業記録-作業TODO/edit_history/edit_history.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "edit_history"
+            }
+          },
+          {
+            "id": "0e8ed6be853894e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "テーマ集/09_作業-作業記録-作業TODO/TODO置き場/TODO_Webデザイン.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO_Webデザイン"
+            }
+          },
+          {
+            "id": "69e904a91b3a45a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "テーマ集/09_作業-作業記録-作業TODO/edit_history/edit_history.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "edit_history"
+            }
+          },
+          {
+            "id": "62cb1c90b35b4842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "テーマ集/04_人材育成_教材/系統解析モデル/過渡負荷モデル（Induction Motor Load Model）.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "過渡負荷モデル（Induction Motor Load Model）"
+            }
+          },
+          {
+            "id": "975a8bc41eff0e5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          },
+          {
+            "id": "1acffd9c3f53acc3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "テーマ集/Excalidraw/お試し_map_excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "お試し_map_excalidraw"
+            }
+          },
+          {
+            "id": "71c48f743a5b322c",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
+            }
+          },
+          {
+            "id": "59f46b035049d7b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "テーマ集/04_人材育成_教材/解析ツール/潮流計算.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "潮流計算"
+            }
+          },
+          {
+            "id": "8e545930415f65b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "テーマ集/xx_未整理/論文ノート/Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller/ノート_Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ノート_Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08644ccc0175751d",
+    "type": "split",
+    "children": [
+      {
+        "id": "754be268fa633f8b",
+        "type": "tabs",
+        "dimension": 79.16975537435137,
+        "children": [
+          {
+            "id": "01f5d66b266ec66a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "a46609f61c4f4a3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          }
+        ]
+      },
+      {
+        "id": "10e7d1a4f11f3429",
+        "type": "tabs",
+        "dimension": 20.83024462564863,
+        "children": [
+          {
+            "id": "c00840b9f3340fdc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "right": {
+    "id": "30d872878d1d1b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b287705ec6da5e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69efcc57b522dee6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "243636d68228c0fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "5536d72fbc620d95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "fdd2cef5428f5ce3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          },
+          {
+            "id": "082d6e9916694831",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "48fee4b234a22522",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md"
+              },
+              "icon": "lucide-info",
+              "title": "DB_研究テーマ-研究リソースのファイルプロパティ"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "3d-graph:3D Graph": false,
+      "publish:パブリッシュによる変更の公開": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "59f46b035049d7b0",
+  "lastOpenFiles": [
+    "テーマ集/xx_未整理/論文ノート/Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller/ノート_Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller.md",
+    "テーマ集/04_人材育成_教材/解析ツール/潮流計算.md",
+    "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md",
+    "テーマ集/01_研究テーマ-研究ソース/GFMインバータ等のGeneric_Model作成と標準化.md",
+    "テーマ集/01_研究テーマ-研究ソース/Dynamic_Line_Rating動的送電容量評価技術の確立.md",
+    "テーマ集/Excalidraw/お試し_map_excalidraw.md",
+    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters With Enhanced Transient Stability/A_Flexible_Saturation_Limiter_for_DC-Link_Voltage_Control_of_Grid-Forming_Inverters_With_Enhanced_Transient_Stability.pdf",
+    "テーマ集/09_作業-作業記録-作業TODO/TODO置き場/0_TODO.md",
+    "テーマ集/xx_未整理/大信号モデル(large-signal model).md",
+    "DB_test.md",
+    "テーマ集/08_その他/添付figs/Pasted image 20250316165302.png",
+    "テーマ集/08_その他/添付figs/Pasted image 20250316165240.png",
+    "テーマ集/08_その他/添付figs/Pasted image 20250316164944.png",
+    "テーマ集/08_その他/添付figs/Pasted image 20250316164925.png",
+    "テーマ集/xx_未整理/小信号モデル(small-sginal model).md",
+    "01_研究テーマ-研究リソース.md",
+    "テーマ集/xx_未整理/電力系統標準モデル.md",
+    "テーマ集/08_その他/ODE(Ordinary Differential Equation).md",
+    "無題のフォルダ",
+    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters With Enhanced Transient Stability/ノート_A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters With Enhanced Transient Stability.md",
+    "テーマ集/xx_未整理/論文ノート/Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller/Bifurcation-Based_Transient_Stability_Analysis_of_Grid-Forming_Converters_with_DC-Link_Voltage_Controller.pdf",
+    "テーマ集/xx_未整理/論文ノート/Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller",
+    "テーマ集/Excalidraw/Power system analysis Tool map.svg",
+    "テーマ集/04_人材育成_教材/系統解析モデル/0_負荷モデル.md",
+    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters With Enhanced Transient Stability",
+    "テーマ集/xx_未整理/論文ノート",
+    "テーマ集/Excalidraw/お試し_map_excalidraw.excalidraw",
+    "テーマ集/03_map/0_map.md",
+    "テーマ集/01_研究テーマ-研究ソース/GFLGridFollowingインバータの無効電力出力要件の検討.md",
+    "テーマ集/01_研究テーマ-研究ソース/P2P電力取引の実現技術.md",
+    "テーマ集/01_研究テーマ-研究ソース/SSOサブシンクロナスオシレーションの原因解明と対策検討.md",
+    "テーマ集/01_研究テーマ-研究ソース/VQC電圧無効電力制御の高度化技術.md",
+    "テーマ集/01_研究テーマ-研究ソース/スマートメータ等の電力データ活用技術の開発.md",
+    "テーマ集/01_研究テーマ-研究ソース/データ駆動型モデリング技術の開発.md",
+    "テーマ集/01_研究テーマ-研究ソース/パワエレ機器導入時の瞬時値シミュレーション技術の高度化.md",
+    "テーマ集/01_研究テーマ-研究ソース/フリッカ現象の対策技術開発.md",
+    "テーマ集/01_研究テーマ-研究ソース/マイクログリッド運用および蓄電池最適運用手法の開発.md",
+    "テーマ集/01_研究テーマ-研究ソース/LFC負荷周波数制御の高度化モデル予測制御の適用.md",
+    "テーマ集/08_その他/添付figs/Pasted Image 20250313211532_228.png",
+    "テーマ集/Excalidraw/Power system analysis Tool map.excalidraw",
+    "テーマ集/08_その他/添付figs/pandapower_logo_S.jpg",
+    "テーマ集/Excalidraw/PKMの可視化レベル.svg",
+    "テーマ集/Excalidraw/PKMの可視化レベル.excalidraw",
+    "テーマ集/08_その他/添付figs/matpower_logo_C.png",
+    "テーマ集/08_その他/添付figs/matpower_logo_S.png",
+    "テーマ集/04_人材育成_教材/系統解析モデル",
+    "テーマ集/09_作業-作業記録-作業TODO/記録ノート/無題のファイル.canvas"
+  ]
+}
