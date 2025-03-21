@@ -38,8 +38,8 @@
                   ]
                 }
               },
-              "icon": "lucide-trello",
-              "title": "お試し_KANBAN"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -50,8 +50,8 @@
               "state": {
                 "file": "テーマ集/Excalidraw/お試し_map_excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "お試し_map_excalidraw"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -62,8 +62,8 @@
               "state": {
                 "file": "テーマ集/Excalidraw/お試し_map_excalidraw.excalidraw"
               },
-              "icon": "excalidraw-icon",
-              "title": "お試し_map_excalidraw"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -74,8 +74,8 @@
               "state": {
                 "file": "テーマ集/Excalidraw/お試し_map_excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "お試し_map_excalidraw"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -110,8 +110,8 @@
               "state": {
                 "file": "テーマ集/Excalidraw/test.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "test"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -122,8 +122,8 @@
               "state": {
                 "file": "テーマ集/Excalidraw/お試し_map_excalidraw.excalidraw"
               },
-              "icon": "excalidraw-icon",
-              "title": "お試し_map_excalidraw"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -240,8 +240,8 @@
               "state": {
                 "file": "テーマ集/Excalidraw/お試し_map_excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "お試し_map_excalidraw"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -258,24 +258,12 @@
             "id": "59f46b035049d7b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "テーマ集/04_人材育成_教材/解析ツール/潮流計算.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters/A_Flexible_Saturation_Limiter_for_DC-Link_Voltage_Control_of_Grid-Forming_Inverters.pdf"
               },
-              "icon": "lucide-file",
-              "title": "潮流計算"
+              "icon": "lucide-file-text",
+              "title": "A_Flexible_Saturation_Limiter_for_DC-Link_Voltage_Control_of_Grid-Forming_Inverters"
             }
           },
           {
@@ -480,23 +468,23 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "3d-graph:3D Graph": false,
       "publish:パブリッシュによる変更の公開": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "3d-graph:3D Graph": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
-      "workspaces:ワークスペースレイアウトを管理": false,
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "59f46b035049d7b0",
+  "active": "01f5d66b266ec66a",
   "lastOpenFiles": [
-    "テーマ集/xx_未整理/論文ノート/Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller/ノート_Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller.md",
     "テーマ集/04_人材育成_教材/解析ツール/潮流計算.md",
+    "テーマ集/xx_未整理/論文ノート/Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller/ノート_Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller.md",
     "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md",
     "テーマ集/01_研究テーマ-研究ソース/GFMインバータ等のGeneric_Model作成と標準化.md",
     "テーマ集/01_研究テーマ-研究ソース/Dynamic_Line_Rating動的送電容量評価技術の確立.md",
     "テーマ集/Excalidraw/お試し_map_excalidraw.md",
-    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters With Enhanced Transient Stability/A_Flexible_Saturation_Limiter_for_DC-Link_Voltage_Control_of_Grid-Forming_Inverters_With_Enhanced_Transient_Stability.pdf",
+    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters/A_Flexible_Saturation_Limiter_for_DC-Link_Voltage_Control_of_Grid-Forming_Inverters.pdf",
     "テーマ集/09_作業-作業記録-作業TODO/TODO置き場/0_TODO.md",
     "テーマ集/xx_未整理/大信号モデル(large-signal model).md",
     "DB_test.md",
@@ -509,12 +497,12 @@
     "テーマ集/xx_未整理/電力系統標準モデル.md",
     "テーマ集/08_その他/ODE(Ordinary Differential Equation).md",
     "無題のフォルダ",
-    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters With Enhanced Transient Stability/ノート_A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters With Enhanced Transient Stability.md",
+    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters/ノート_A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters With Enhanced Transient Stability.md",
     "テーマ集/xx_未整理/論文ノート/Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller/Bifurcation-Based_Transient_Stability_Analysis_of_Grid-Forming_Converters_with_DC-Link_Voltage_Controller.pdf",
     "テーマ集/xx_未整理/論文ノート/Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller",
     "テーマ集/Excalidraw/Power system analysis Tool map.svg",
     "テーマ集/04_人材育成_教材/系統解析モデル/0_負荷モデル.md",
-    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters With Enhanced Transient Stability",
+    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters",
     "テーマ集/xx_未整理/論文ノート",
     "テーマ集/Excalidraw/お試し_map_excalidraw.excalidraw",
     "テーマ集/03_map/0_map.md",
