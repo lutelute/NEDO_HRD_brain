@@ -1,13 +1,11 @@
 [
-  "3d-graph",
-  "obsidian-admonition",
   "obsidian-excalidraw-plugin",
   "dataview",
-  "obsidian-kanban",
-  "editing-toolbar",
-  "obsidian-tasks-plugin",
-  "dataview-publisher",
+  "obsidian-icon-folder",
   "dbfolder",
+  "dataview-publisher",
+  "obsidian-admonition",
   "hotkeysplus-obsidian",
-  "obsidian-icon-folder"
+  "obsidian-kanban",
+  "metadata-menu"
 ]

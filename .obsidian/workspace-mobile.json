@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "152808d484748f58",
+    "type": "split",
+    "children": [
+      {
+        "id": "da68b68bc72e488e",
+        "type": "split",
+        "children": [
+          {
+            "id": "75ae867b38d84dd3",
+            "type": "tabs",
+            "dimension": 76.27551020408163,
+            "children": [
+              {
+                "id": "6237aa6a589c1e5d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "グラフビュー"
+                }
+              },
+              {
+                "id": "0b64764fbb908450",
+                "type": "leaf",
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md"
+                  },
+                  "icon": "database-folder-icon",
+                  "title": "DB_研究テーマ-研究リソース"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "1f3feab03b06ceb6",
+            "type": "tabs",
+            "dimension": 23.72448979591837,
+            "children": [
+              {
+                "id": "4cf7f7209c2d2c7c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "テーマ集/09_作業-作業記録-作業TODO/edit_history/edit_history.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "edit_history"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f3196ad1fa3ce83",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5b6c7b569049ffcf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "ファイルエクスプローラ"
+        }
+      },
+      {
+        "id": "2e894cb2ba038693",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "検索"
+        }
+      },
+      {
+        "id": "271ee6a463cdbfbf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "タグ"
+        }
+      },
+      {
+        "id": "a3ca3806105735f3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "ブックマーク"
+        }
+      },
+      {
+        "id": "8d7fa2656ca0b348",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "テーマ集/09_作業-作業記録-作業TODO/edit_history/edit_history.md",
+            "mode": "source",
+            "source": false,
+            "backlinks": true,
+            "backlinkOpts": {
+              "collapseAll": false,
+              "extraContext": false,
+              "sortOrder": "alphabetical",
+              "showSearch": false,
+              "searchQuery": "",
+              "backlinkCollapsed": false,
+              "unlinkedCollapsed": true
+            }
+          },
+          "icon": "lucide-file",
+          "title": "edit_history"
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "58740d974f643ba1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d967258e9e70fb5f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "バックリンク"
+        }
+      },
+      {
+        "id": "325c483b490cba1c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "テーマ集/01_研究テーマ-研究ソース/次世代送電配電計画支援技術ツール開発等.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "アウトゴーイングリンク"
+        }
+      },
+      {
+        "id": "00bf640b1831ec77",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "テーマ集/01_研究テーマ-研究ソース/次世代送電配電計画支援技術ツール開発等.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "アウトライン"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "publish:パブリッシュによる変更の公開": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-kanban:カンバンボードを新規作成": false
+    }
+  },
+  "active": "5b6c7b569049ffcf",
+  "lastOpenFiles": [
+    "テーマ集/08_その他/SSO.md",
+    "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md",
+    "テーマ集/09_作業-作業記録-作業TODO/edit_history/edit_history.md",
+    "テーマ集/01_研究テーマ-研究ソース/Dynamic_Line_Rating動的送電容量評価技術の確立.md",
+    "テーマ集/01_研究テーマ-研究ソース/動的安定性技術の確立.md",
+    "テーマ集/Excalidraw/Drawing 2025-03-29 15.16.05.excalidraw.md",
+    "2025-04-06.md",
+    "テーマ集/03_map/0_map.md",
+    "テーマ集/Excalidraw/Drawing 2025-03-29 15.16.05.excalidraw.svg",
+    "テーマ集/Excalidraw/Drawing 2025-03-29 15.16.05.excalidraw.excalidraw",
+    "テーマ集/Excalidraw/test2.excalidraw",
+    "テーマ集/07_文献_PDF_etc/NEDO特別講座_趣旨説明_確定版ver1.pdf",
+    "テーマ集/Excalidraw/test2.md",
+    "テーマ集/Excalidraw/test2.svg",
+    "テーマ集/Excalidraw/test.svg",
+    "テーマ集/Excalidraw/test.md",
+    "テーマ集/01_研究テーマ-研究ソース/次世代送電配電計画支援技術ツール開発等.md",
+    "テーマ集/01_研究テーマ-研究ソース/パワエレ機器導入時の瞬時値シミュレーション技術の高度化.md",
+    "テーマ集/01_研究テーマ-研究ソース/GFMインバータの導入実用化慣性確保のための制御技術確立.md",
+    "テーマ集/01_研究テーマ-研究ソース/GFLGridFollowingインバータの無効電力出力要件の検討.md",
+    "テーマ集/Excalidraw/PKMの可視化レベル.md",
+    "テーマ集/Excalidraw/お試し_map_excalidraw.md",
+    "テーマ集/xx_未整理/論文ノート/Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller/ノート_Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller.md",
+    "フォルダ番号ルール.md",
+    "テーマ集DB案.xlsx",
+    "makeMD.py",
+    "publish.js",
+    "publish.css",
+    "DB_test.md",
+    "NEDO特別講座マップ作成作業記録_SGNB.pptx",
+    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters/ノート_A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters With Enhanced Transient Stability.md",
+    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters/A_Flexible_Saturation_Limiter_for_DC-Link_Voltage_Control_of_Grid-Forming_Inverters.pdf",
+    "テーマ集/xx_未整理/論文ノート/Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller/Bifurcation-Based_Transient_Stability_Analysis_of_Grid-Forming_Converters_with_DC-Link_Voltage_Controller.pdf",
+    "テーマ集/04_人材育成_教材/解析ツール/MATPOWERとは.md",
+    "テーマ集/04_人材育成_教材/解析ツール/PandaPowerとは.md",
+    "テーマ集/04_人材育成_教材/解析ツール/潮流計算.md",
+    "テーマ集/04_人材育成_教材/系統解析モデル/0_負荷モデル.md",
+    "テーマ集/04_人材育成_教材/系統解析モデル/周波数依存負荷モデル（Frequency-Dependent Load Model）.md",
+    "テーマ集/04_人材育成_教材/系統解析モデル/ZIPモデル(Polynomial Load Model).md",
+    "テーマ集/08_その他/添付figs/SHIN系統ロゴ.png",
+    "テーマ集/08_その他/添付figs/Pasted image 20250316164925.png",
+    "テーマ集/08_その他/添付figs/Pasted Image 20250313211532_228.png",
+    "テーマ集/08_その他/添付figs/pandapower_logo_S.jpg",
+    "テーマ集/08_その他/添付figs/Pasted image 20250316164944.png",
+    "テーマ集/08_その他/添付figs/Pasted image 20250316165240.png",
+    "テーマ集/08_その他/添付figs/ダイナミックレーティング参考図.png"
+  ]
+}

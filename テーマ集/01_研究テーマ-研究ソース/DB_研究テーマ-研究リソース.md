@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 1
+    position: 3
     isHidden: false
     sortIndex: -1
     width: 100
@@ -43,7 +43,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 3
+    position: 2
     isHidden: false
     sortIndex: -1
     config:
@@ -61,11 +61,55 @@ columns:
     key: 記入
     id: 記入
     label: 記入
-    position: 2
+    position: 1
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 337
+    width: 393
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  __inlinks__:
+    key: __inlinks__
+    id: __inlinks__
+    input: inlinks
+    label: Inlinks
+    accessorKey: __inlinks__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: false
+    position: 4
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  __outlinks__:
+    key: __outlinks__
+    id: __outlinks__
+    input: outlinks
+    label: Outlinks
+    accessorKey: __outlinks__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: false
+    position: 5
+    isHidden: true
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -86,8 +130,8 @@ config:
   show_metadata_created: false
   show_metadata_modified: true
   show_metadata_tasks: false
-  show_metadata_inlinks: false
-  show_metadata_outlinks: false
+  show_metadata_inlinks: true
+  show_metadata_outlinks: true
   show_metadata_tags: false
   source_data: current_folder
   source_form_result: 
@@ -130,4 +174,40 @@ filters:
           operator: CONTAINS
           value: "true"
           type: checkbox
+      - condition: AND
+        disabled: true
+        label: "曼荼羅_送界"
+        color: "hsl(48,100%,50%)"
+        filters:
+        - field: tags
+          operator: CONTAINS
+          value: "曼荼羅_送界"
+          type: text
+      - condition: OR
+        disabled: true
+        label: "曼荼羅_技界"
+        color: "hsl(136,60%,49%)"
+        filters:
+        - field: tags
+          operator: CONTAINS
+          value: "曼荼羅_技界"
+          type: text
+      - condition: OR
+        disabled: true
+        label: "曼荼羅_配界"
+        color: "hsl(193,97%,65%)"
+        filters:
+        - field: tags
+          operator: CONTAINS
+          value: "曼荼羅_配界"
+          type: text
+      - condition: OR
+        disabled: true
+        label: "曼荼羅_人界"
+        color: "hsl(0,0%,68%)"
+        filters:
+        - field: tags
+          operator: CONTAINS
+          value: "曼荼羅_人界"
+          type: text
 ```
