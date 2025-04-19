@@ -21,7 +21,7 @@ columns:
     position: 3
     isHidden: false
     sortIndex: -1
-    width: 100
+    width: 490
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -65,7 +65,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 393
+    width: 66
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -174,7 +174,7 @@ filters:
           operator: CONTAINS
           value: "true"
           type: checkbox
-      - condition: AND
+      - condition: OR
         disabled: true
         label: "曼荼羅_送界"
         color: "hsl(48,100%,50%)"
