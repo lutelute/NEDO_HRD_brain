@@ -184,7 +184,7 @@ filters:
           value: "曼荼羅_送界"
           type: text
       - condition: OR
-        disabled: true
+        disabled: false
         label: "曼荼羅_技界"
         color: "hsl(136,60%,49%)"
         filters:

@@ -16,12 +16,12 @@
                 "id": "6237aa6a589c1e5d",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "database-plugin",
                   "state": {
-                    "file": "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/第2回ワークショップ開催案内 プログラム_改.pdf"
+                    "file": "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md"
                   },
-                  "icon": "lucide-file-text",
-                  "title": "第2回ワークショップ開催案内 プログラム_改"
+                  "icon": "database-folder-icon",
+                  "title": "DB_研究テーマ-研究リソース"
                 }
               }
             ]
@@ -220,9 +220,11 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "6237aa6a589c1e5d",
+  "active": "4cf7f7209c2d2c7c",
   "lastOpenFiles": [
+    "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md",
     "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/パネルディスカッション案.md",
+    "テーマ集/09_作業-作業記録-作業TODO/edit_history/edit_history.md",
     "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/第2回ワークショップ開催案内 プログラム_改.pdf",
     "テーマ集/Excalidraw/お試し_map_excalidraw.excalidraw",
     "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ",
@@ -238,12 +240,10 @@
     "テーマ集/Excalidraw/Drawing 2025-03-29 15.16.05.excalidraw.svg",
     "テーマ集/Excalidraw/Drawing 2025-03-29 15.16.05.excalidraw.excalidraw",
     "テーマ集/Excalidraw/Drawing 2025-03-29 15.16.05.excalidraw.md",
-    "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md",
     "テーマ集/01_研究テーマ-研究ソース/マイクログリッド運用および蓄電池最適運用手法の開発.md",
     "テーマ集/01_研究テーマ-研究ソース/縮約技術の確立と活用.md",
     "テーマ集/01_研究テーマ-研究ソース/Dynamic_Line_Rating動的送電容量評価技術の確立.md",
     "テーマ集/08_その他/SSO.md",
-    "テーマ集/09_作業-作業記録-作業TODO/edit_history/edit_history.md",
     "テーマ集/01_研究テーマ-研究ソース/動的安定性技術の確立.md",
     "2025-04-06.md",
     "テーマ集/03_map/0_map.md",
