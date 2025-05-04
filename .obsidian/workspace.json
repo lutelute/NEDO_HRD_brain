@@ -236,34 +236,12 @@
             "id": "1acffd9c3f53acc3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "テーマ集/Excalidraw/お試し_map_excalidraw.md"
-              },
-              "icon": "lucide-file",
-              "title": "アクティブでなくなったプラグイン"
-            }
-          },
-          {
-            "id": "71c48f743a5b322c",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "アクティブでなくなったプラグイン"
-            }
-          },
-          {
-            "id": "59f46b035049d7b0",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
-                "file": "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters/A_Flexible_Saturation_Limiter_for_DC-Link_Voltage_Control_of_Grid-Forming_Inverters.pdf"
+                "file": "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/第2回ワークショップ開催案内 プログラム_改.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "A_Flexible_Saturation_Limiter_for_DC-Link_Voltage_Control_of_Grid-Forming_Inverters"
+              "title": "第2回ワークショップ開催案内 プログラム_改"
             }
           },
           {
@@ -291,7 +269,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -436,8 +414,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "すべてのプロパティ"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -448,8 +426,8 @@
               "state": {
                 "file": "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md"
               },
-              "icon": "lucide-info",
-              "title": "DB_研究テーマ-研究リソースのファイルプロパティ"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           }
         ],
@@ -462,6 +440,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph:3D Graph": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -469,22 +448,22 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "publish:パブリッシュによる変更の公開": false,
-      "workspaces:ワークスペースレイアウトを管理": false,
-      "3d-graph:3D Graph": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "01f5d66b266ec66a",
+  "active": "1acffd9c3f53acc3",
   "lastOpenFiles": [
-    "テーマ集/04_人材育成_教材/解析ツール/潮流計算.md",
+    "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/第2回ワークショップ開催案内 プログラム 0502 .pdf",
+    "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/パネルディスカッション案.md",
+    "テーマ集/Excalidraw/お試し_map_excalidraw.md",
     "テーマ集/xx_未整理/論文ノート/Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller/ノート_Bifurcation-Based Transient Stability Analysis of Grid-Forming Converters with DC-Link Voltage Controller.md",
     "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md",
+    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters/A_Flexible_Saturation_Limiter_for_DC-Link_Voltage_Control_of_Grid-Forming_Inverters.pdf",
+    "テーマ集/04_人材育成_教材/解析ツール/潮流計算.md",
     "テーマ集/01_研究テーマ-研究ソース/GFMインバータ等のGeneric_Model作成と標準化.md",
     "テーマ集/01_研究テーマ-研究ソース/Dynamic_Line_Rating動的送電容量評価技術の確立.md",
-    "テーマ集/Excalidraw/お試し_map_excalidraw.md",
-    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters/A_Flexible_Saturation_Limiter_for_DC-Link_Voltage_Control_of_Grid-Forming_Inverters.pdf",
     "テーマ集/09_作業-作業記録-作業TODO/TODO置き場/0_TODO.md",
     "テーマ集/xx_未整理/大信号モデル(large-signal model).md",
     "DB_test.md",
@@ -514,8 +493,6 @@
     "テーマ集/01_研究テーマ-研究ソース/データ駆動型モデリング技術の開発.md",
     "テーマ集/01_研究テーマ-研究ソース/パワエレ機器導入時の瞬時値シミュレーション技術の高度化.md",
     "テーマ集/01_研究テーマ-研究ソース/フリッカ現象の対策技術開発.md",
-    "テーマ集/01_研究テーマ-研究ソース/マイクログリッド運用および蓄電池最適運用手法の開発.md",
-    "テーマ集/01_研究テーマ-研究ソース/LFC負荷周波数制御の高度化モデル予測制御の適用.md",
     "テーマ集/08_その他/添付figs/Pasted Image 20250313211532_228.png",
     "テーマ集/Excalidraw/Power system analysis Tool map.excalidraw",
     "テーマ集/08_その他/添付figs/pandapower_logo_S.jpg",
