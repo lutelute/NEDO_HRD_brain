@@ -8,23 +8,132 @@
         "type": "split",
         "children": [
           {
-            "id": "75ae867b38d84dd3",
-            "type": "tabs",
+            "id": "8b0178fe7f3b0817",
+            "type": "split",
             "dimension": 76.27551020408163,
             "children": [
               {
-                "id": "6237aa6a589c1e5d",
-                "type": "leaf",
-                "state": {
-                  "type": "database-plugin",
-                  "state": {
-                    "file": "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md"
+                "id": "75ae867b38d84dd3",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "6237aa6a589c1e5d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "database-plugin",
+                      "state": {
+                        "file": "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md"
+                      },
+                      "icon": "database-folder-icon",
+                      "title": "DB_研究テーマ-研究リソース"
+                    }
                   },
-                  "icon": "database-folder-icon",
-                  "title": "DB_研究テーマ-研究リソース"
-                }
+                  {
+                    "id": "b52c57752df539d6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "excalidraw",
+                      "state": {
+                        "file": "テーマ集/Excalidraw/Drawing 2025-04-21 13.04.15.excalidraw.md"
+                      },
+                      "icon": "excalidraw-icon",
+                      "title": "Drawing 2025-04-21 13.04.15.excalidraw"
+                    }
+                  },
+                  {
+                    "id": "a1b0de72a3895c09",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "グラフビュー"
+                    }
+                  },
+                  {
+                    "id": "a66f6b74080f9941",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/0_パネルディスカッション_若手_SHIN.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "0_パネルディスカッション_若手_SHIN"
+                    }
+                  }
+                ],
+                "currentTab": 3
+              },
+              {
+                "id": "288913d1c84b7b5f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d3a4b8a04dbc4cdd",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "パネQ_SHIN_辛.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "パネQ_SHIN_辛"
+                    }
+                  },
+                  {
+                    "id": "e8d674122cfe06c8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/パネQ_SHIN_診.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "パネQ_SHIN_診"
+                    }
+                  }
+                ],
+                "currentTab": 1
               }
-            ]
+            ],
+            "direction": "vertical"
           },
           {
             "id": "1f3feab03b06ceb6",
@@ -147,8 +256,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "58740d974f643ba1",
@@ -222,9 +330,19 @@
   },
   "active": "4cf7f7209c2d2c7c",
   "lastOpenFiles": [
+    "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/パネQ_SHIN_診.md",
+    "パネQ_SHIN_辛.md",
+    "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/0_パネルディスカッション_若手_SHIN.md",
+    "パネQ_SHIN_審.md",
+    "パネQ_SHIN_賑.md",
+    "パネQ_SHIN_震.md",
+    "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/パネQ_SHIN_心(真)・芯.md",
     "テーマ集/01_研究テーマ-研究ソース/DB_研究テーマ-研究リソース.md",
-    "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/パネルディスカッション案.md",
     "テーマ集/09_作業-作業記録-作業TODO/edit_history/edit_history.md",
+    "テーマ集/Excalidraw/Drawing 2025-04-21 13.04.15.excalidraw.svg",
+    "テーマ集/Excalidraw/Drawing 2025-04-21 13.04.15.excalidraw.excalidraw",
+    "テーマ集/Excalidraw/Drawing 2025-04-21 13.04.15.excalidraw.md",
+    "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/パネルディスカッション案.md",
     "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/第2回ワークショップ開催案内 プログラム_改.pdf",
     "テーマ集/Excalidraw/お試し_map_excalidraw.excalidraw",
     "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ",
@@ -248,24 +366,15 @@
     "2025-04-06.md",
     "テーマ集/03_map/0_map.md",
     "テーマ集/Excalidraw/test2.excalidraw",
-    "テーマ集/07_文献_PDF_etc/NEDO特別講座_趣旨説明_確定版ver1.pdf",
     "テーマ集/Excalidraw/test2.md",
     "テーマ集/Excalidraw/test2.svg",
     "テーマ集/Excalidraw/test.svg",
     "テーマ集/Excalidraw/test.md",
     "テーマ集/01_研究テーマ-研究ソース/次世代送電配電計画支援技術ツール開発等.md",
     "テーマ集/01_研究テーマ-研究ソース/パワエレ機器導入時の瞬時値シミュレーション技術の高度化.md",
-    "テーマ集/01_研究テーマ-研究ソース/GFMインバータの導入実用化慣性確保のための制御技術確立.md",
-    "テーマ集/01_研究テーマ-研究ソース/GFLGridFollowingインバータの無効電力出力要件の検討.md",
-    "フォルダ番号ルール.md",
-    "DB_test.md",
-    "テーマ集/xx_未整理/論文ノート/A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters/ノート_A Flexible Saturation Limiter for DC-Link Voltage Control of Grid-Forming Inverters With Enhanced Transient Stability.md",
-    "テーマ集/04_人材育成_教材/解析ツール/MATPOWERとは.md",
-    "テーマ集/04_人材育成_教材/解析ツール/PandaPowerとは.md",
     "テーマ集/08_その他/添付figs/SHIN系統ロゴ.png",
     "テーマ集/08_その他/添付figs/Pasted image 20250316164925.png",
     "テーマ集/08_その他/添付figs/Pasted Image 20250313211532_228.png",
-    "テーマ集/08_その他/添付figs/pandapower_logo_S.jpg",
-    "テーマ集/08_その他/添付figs/Pasted image 20250316164944.png"
+    "テーマ集/08_その他/添付figs/pandapower_logo_S.jpg"
   ]
 }
