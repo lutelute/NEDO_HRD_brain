@@ -236,12 +236,24 @@
             "id": "1acffd9c3f53acc3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/第2回ワークショップ開催案内 プログラム_改.pdf"
+                "file": "DB_test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "第2回ワークショップ開催案内 プログラム_改"
+              "icon": "lucide-file",
+              "title": "DB_test"
             }
           },
           {
@@ -440,7 +452,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "3d-graph:3D Graph": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -449,11 +460,12 @@
       "command-palette:コマンドパレットを開く": false,
       "publish:パブリッシュによる変更の公開": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "dbfolder:Create a new database table": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
-      "dbfolder:Create a new database table": false
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "1acffd9c3f53acc3",
+  "active": "01f5d66b266ec66a",
   "lastOpenFiles": [
     "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/第2回ワークショップ開催案内 プログラム 0502 .pdf",
     "テーマ集/05_ワークショップ/2025-05-09_第2回ワークショップ/パネルディスカッション案.md",
